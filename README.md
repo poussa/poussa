@@ -65,9 +65,4 @@
 
 ---
 
-### 📜 Patents
-
-- Secure key management for service mesh deployments (2025)
-- Remote IPSec Security Association Management (2001)
-
 <p align="center"><i>Thanks for stopping by! 👋</i></p>
